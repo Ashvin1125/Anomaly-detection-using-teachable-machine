@@ -1,3 +1,5 @@
+import os
+os.environ['KERAS_BACKEND'] = 'tensorflow'
 import streamlit as st
 from tensorflow.keras.models import load_model
 from PIL import Image
