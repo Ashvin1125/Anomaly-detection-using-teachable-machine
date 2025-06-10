@@ -16,7 +16,6 @@ A Streamlit web application for real-time anomaly detection in manufactured cast
   - [Setup and Installation](https://www.google.com/search?q=%23-setup-and-installation)
   - [Deployment](https://www.google.com/search?q=%23-deployment)
   - [Dataset](https://www.google.com/search?q=%23-dataset)
-  - [Challenges & Key Learnings](https://www.google.com/search?q=%23-challenges--key-learnings)
   - [License](https://www.google.com/search?q=%23-license)
 
 -----
