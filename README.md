@@ -42,7 +42,7 @@ In manufacturing, ensuring product quality is critical. Manual inspection is oft
   * **Model Training:** Google's Teachable Machine
   * **Deep Learning Framework:** TensorFlow / Keras 3
   * **Web Application Framework:** Streamlit
-  * **Core Language:** Python 3.11
+  * **Core Language:** Python 3.10
   * **Key Libraries:** NumPy, Pillow, OpenCV-Python
   * **Deployment:** Streamlit Community Cloud
 
