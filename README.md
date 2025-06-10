@@ -76,8 +76,8 @@ To run this project locally, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [Your GitHub Repository URL]
-    cd casting-defect-detector
+    git clone https://github.com/Ashvin1125/Anomaly-detection-using-teachable-machine.git
+    cd Anomaly-detection-using-teachable-machine
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -112,7 +112,7 @@ To run this project locally, follow these steps:
 
 The application is deployed on Streamlit Community Cloud and is publicly accessible.
 
-**Live App URL:** [**Your Live Streamlit App URL Here**]
+**Live App URL:** [**https://anomaly-detection-using-teachable-machine.streamlit.app/**]
 
 -----
 
