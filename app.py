@@ -66,7 +66,7 @@ def predict(image_to_predict, model_layer, labels):
     return class_name, confidence_score
 
 # --- STREAMLIT INTERFACE (No changes needed here) ---
-st.title("Anomaly Detection for Manufactured Products 🏭")
+st.title("Anomaly Detection for Manufactured Product Cast Matel 🏭")
 st.write("Upload an image of a product (e.g., a bottle cap) to check if it's normal or an anomaly.")
 
 # Load the model and labels
