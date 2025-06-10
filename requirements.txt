@@ -1,15 +1,4 @@
-# -- Keras 3 and Backend --
-# Explicitly install a stable version of Keras 3
-keras==3.3.3
-
-# Keras 3 needs tensorflow as its backend
-tensorflow
-
-# Pin h5py to a known stable version as a precaution for model loading
-h5py==3.10.0
-
-
-# -- App Dependencies --
+tensorflow>=2.16.0
 streamlit
 Pillow
 numpy
