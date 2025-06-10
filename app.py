@@ -18,7 +18,7 @@ st.sidebar.info("""
 
     The model is a Convolutional Neural Network (CNN) trained on the 'Casting Product Image Data' dataset using TensorFlow and Keras. It was initially trained using Google's Teachable Machine and the final model is deployed in this Streamlit application.
 """)
-st.sidebar.success("Project by: [Your Name Here]")
+st.sidebar.success("Project by: Ashvin ")
 
 
 # --- MODEL LOADING ---
