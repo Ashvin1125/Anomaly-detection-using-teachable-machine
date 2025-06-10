@@ -2,8 +2,6 @@
 
 A Streamlit web application for real-time anomaly detection in manufactured cast metal parts. This project leverages a Convolutional Neural Network (CNN) to classify product images as 'Normal' or 'Anomalous' (defective), helping to automate the quality control process in a manufacturing setting.
 
-  
-*(**Action:** Replace the image link above with a screenshot of your own running app\!)*
 
 -----
 
