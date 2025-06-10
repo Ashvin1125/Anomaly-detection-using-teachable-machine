@@ -13,7 +13,7 @@ st.set_page_config(layout="wide", page_title="Anomaly Detection System")
 def load_keras_model():
     """Loads the Keras model and labels from the disk."""
     # NEW CODE
-model = load_model("my_model", compile=False)
+    model = load_model("my_model", compile=False)
     with open("labels.txt", "r") as f:
         labels = [line.strip() for line in f.readlines()]
     return model, labels
