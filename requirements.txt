@@ -1,5 +1,8 @@
+# Use a specific, recent version of tensorflow that includes keras
+tensorflow>=2.16.0
+
+# Other libraries
 streamlit
-tensorflow
 Pillow
 numpy
 opencv-python-headless
